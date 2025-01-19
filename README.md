@@ -1,2 +1,2 @@
 # Real-Time-Billionaire
-Real-Time Billionaires List
+Credit to https://github.com/jesseokeya/Forbes400
