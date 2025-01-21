@@ -1,3 +1,4 @@
 # Real-Time Billionaire
-Outcompetes [Forbes](https://www.forbes.com/real-time-billionaires/), [Bloomberg](https://www.bloomberg.com/billionaires/)__
+Outcompetes [Forbes](https://www.forbes.com/real-time-billionaires/), [Bloomberg](https://www.bloomberg.com/billionaires/)
+__
 Credit to https://github.com/jesseokeya/Forbes400 for the API
