@@ -1,6 +1,6 @@
 # Real-Time Billionaire
-Follow in the footsteps of world's richest people and explore their portfolios. View portfolios of Elon Musk, Jeff Bezos, Warren Buffett and other billionaires.<br>
-Outcompetes [Forbes](https://www.forbes.com/real-time-billionaires/) and [Bloomberg](https://www.bloomberg.com/billionaires/) in overview, info and design but still be as accurate.<br>
+Follow in the footsteps of world's richest people and explore their portfolios. View portfolios of Elon Musk, Jeff Bezos, Warren Buffett and other billionaires.
+Outcompetes [Forbes](https://www.forbes.com/real-time-billionaires/) and [Bloomberg](https://www.bloomberg.com/billionaires/) in overview, info and design but still be as accurate.
 Also supports every single fiat.
 <br><br>
 
