@@ -4,6 +4,6 @@ Also supports every single fiat.
 <br><br>
 
 Credit to [Jesse Okeya](https://github.com/jesseokeya) for the [JSON API Of The Forbes 400 Richest People List](https://github.com/jesseokeya/Forbes400).<br>
-Fiat API: [freepublicapis.com](https://www.freepublicapis.com/exchange-rate-api)
+Fiat exchange rate API: [freepublicapis.com](https://www.freepublicapis.com/exchange-rate-api)
 
 COMING SOON!
