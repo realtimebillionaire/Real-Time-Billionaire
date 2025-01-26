@@ -5,7 +5,8 @@ Also supports every single fiat.
 <br><br>
 
 Credit to [Jesse Okeya](https://github.com/jesseokeya) for the [JSON API Of The Forbes 400 Richest People List](https://github.com/jesseokeya/Forbes400).<br>
-Credit to [Stephen Shogg](https://github.com/git-shogg/) for [Finsec](https://github.com/git-shogg/finsec/) (13F filings)<br>
-Fiat exchange rate API: [freepublicapis.com](https://www.freepublicapis.com/exchange-rate-api)
+Fiat exchange rate API: [freepublicapis.com](https://www.freepublicapis.com/exchange-rate-api)<br>
+Widgets: [TradingView](https://www.tradingview.com/)
+<br><br>
 
 COMING SOON!
