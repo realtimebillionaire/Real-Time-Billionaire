@@ -9,4 +9,4 @@ Fiat exchange rate API: [freepublicapis.com](https://www.freepublicapis.com/exch
 Widgets: [TradingView](https://www.tradingview.com/widget-docs/widgets/)
 <br><br>
 
-COMING SOON!
+Early access at https://realtimebillionaire.github.io/
